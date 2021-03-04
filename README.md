@@ -14,7 +14,7 @@
 * コサイン類似度による距離比較
 
 # Usage
-以下リンクからColaboratoryでノートブックを開き、上から順に実行してください。
+以下リンクからColaboratoryでノートブックを開き、上から順に実行してください。<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/mnist-sample-using-tf-simple-metric-learning/blob/master/mnist_sample_using_tf_simple_metric_learning.ipynb)
 
 # Reference
