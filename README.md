@@ -1,5 +1,5 @@
 # mnist-sample-using-tf-simple-metric-learning
-このリポジトリは[tf-simple-metric-learning](https://github.com/daigo0927/tf-simple-metric-learning)を用いてMNISTで距離学習を実施するサンプルです。
+このリポジトリは、[tf-simple-metric-learning](https://github.com/daigo0927/tf-simple-metric-learning) を用いてMNISTで距離学習を実施するサンプルです。
 
 # Contents
 * tf-simple-metric-learningインストール
