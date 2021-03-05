@@ -10,7 +10,7 @@
 * 推論用モデル保存<br>
 　<img src="https://user-images.githubusercontent.com/37477845/109993445-a5a6ea00-7d4f-11eb-8236-e3174de4a112.png" width="15%">
 * UMAPによる可視化<br>
-<img src="https://user-images.githubusercontent.com/37477845/109993446-a63f8080-7d4f-11eb-8e48-f28cb6ad0681.png" width="20%">
+　<img src="https://user-images.githubusercontent.com/37477845/109993446-a63f8080-7d4f-11eb-8e48-f28cb6ad0681.png" width="20%">
 * コサイン類似度による距離比較
 
 # Usage
