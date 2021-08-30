@@ -20,6 +20,9 @@
 # Reference
 [daigo0927/tf-simple-metric-learning](https://github.com/daigo0927/tf-simple-metric-learning)
 
+# ToDo
+- [ ] MagFace調査<br>参考：[ArcFaceの拡張「MagFace」をまとめてみたよ](https://qiita.com/miiuchu/items/bf970a6fe4ab01866511)
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
